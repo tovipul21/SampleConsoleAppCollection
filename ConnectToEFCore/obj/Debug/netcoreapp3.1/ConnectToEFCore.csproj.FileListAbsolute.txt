@@ -1,0 +1,13 @@
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\ConnectToEFCore\bin\Debug\netcoreapp3.1\ConnectToEFCore.exe
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\ConnectToEFCore\bin\Debug\netcoreapp3.1\ConnectToEFCore.deps.json
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\ConnectToEFCore\bin\Debug\netcoreapp3.1\ConnectToEFCore.runtimeconfig.json
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\ConnectToEFCore\bin\Debug\netcoreapp3.1\ConnectToEFCore.runtimeconfig.dev.json
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\ConnectToEFCore\bin\Debug\netcoreapp3.1\ConnectToEFCore.dll
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\ConnectToEFCore\bin\Debug\netcoreapp3.1\ConnectToEFCore.pdb
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\ConnectToEFCore\obj\Debug\netcoreapp3.1\ConnectToEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\ConnectToEFCore\obj\Debug\netcoreapp3.1\ConnectToEFCore.AssemblyInfoInputs.cache
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\ConnectToEFCore\obj\Debug\netcoreapp3.1\ConnectToEFCore.AssemblyInfo.cs
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\ConnectToEFCore\obj\Debug\netcoreapp3.1\ConnectToEFCore.csproj.CoreCompileInputs.cache
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\ConnectToEFCore\obj\Debug\netcoreapp3.1\ConnectToEFCore.dll
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\ConnectToEFCore\obj\Debug\netcoreapp3.1\ConnectToEFCore.pdb
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\ConnectToEFCore\obj\Debug\netcoreapp3.1\ConnectToEFCore.genruntimeconfig.cache

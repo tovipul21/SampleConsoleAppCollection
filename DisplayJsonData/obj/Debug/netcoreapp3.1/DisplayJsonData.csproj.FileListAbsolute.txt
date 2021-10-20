@@ -12,3 +12,17 @@ C:\Users\vipul.mehta\source\repos\ConsoleApplications\DisplayJsonData\obj\Debug\
 C:\Users\vipul.mehta\source\repos\ConsoleApplications\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.dll
 C:\Users\vipul.mehta\source\repos\ConsoleApplications\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.pdb
 C:\Users\vipul.mehta\source\repos\ConsoleApplications\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.genruntimeconfig.cache
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\DisplayJsonData\bin\Debug\netcoreapp3.1\DisplayJsonData.exe
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\DisplayJsonData\bin\Debug\netcoreapp3.1\DisplayJsonData.deps.json
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\DisplayJsonData\bin\Debug\netcoreapp3.1\DisplayJsonData.runtimeconfig.json
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\DisplayJsonData\bin\Debug\netcoreapp3.1\DisplayJsonData.runtimeconfig.dev.json
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\DisplayJsonData\bin\Debug\netcoreapp3.1\DisplayJsonData.dll
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\DisplayJsonData\bin\Debug\netcoreapp3.1\DisplayJsonData.pdb
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.csproj.AssemblyReference.cache
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.AssemblyInfoInputs.cache
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.AssemblyInfo.cs
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.csproj.CoreCompileInputs.cache
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.dll
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.pdb
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.genruntimeconfig.cache

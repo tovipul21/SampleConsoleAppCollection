@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vipul.mehta\\source\\repos\\ConsoleApplications\\DisplayJsonData\\DisplayJsonData.csproj": {}
+    "C:\\Users\\vipul.mehta\\source\\repos\\SampleConsoleAppCollection\\DisplayJsonData\\DisplayJsonData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vipul.mehta\\source\\repos\\ConsoleApplications\\DisplayJsonData\\DisplayJsonData.csproj": {
+    "C:\\Users\\vipul.mehta\\source\\repos\\SampleConsoleAppCollection\\DisplayJsonData\\DisplayJsonData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vipul.mehta\\source\\repos\\ConsoleApplications\\DisplayJsonData\\DisplayJsonData.csproj",
+        "projectUniqueName": "C:\\Users\\vipul.mehta\\source\\repos\\SampleConsoleAppCollection\\DisplayJsonData\\DisplayJsonData.csproj",
         "projectName": "DisplayJsonData",
-        "projectPath": "C:\\Users\\vipul.mehta\\source\\repos\\ConsoleApplications\\DisplayJsonData\\DisplayJsonData.csproj",
+        "projectPath": "C:\\Users\\vipul.mehta\\source\\repos\\SampleConsoleAppCollection\\DisplayJsonData\\DisplayJsonData.csproj",
         "packagesPath": "C:\\Users\\vipul.mehta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vipul.mehta\\source\\repos\\ConsoleApplications\\DisplayJsonData\\obj\\",
+        "outputPath": "C:\\Users\\vipul.mehta\\source\\repos\\SampleConsoleAppCollection\\DisplayJsonData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vipul.mehta\\AppData\\Roaming\\NuGet\\NuGet.Config",

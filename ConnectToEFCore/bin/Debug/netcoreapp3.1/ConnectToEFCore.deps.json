@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConnectToEFCore/1.0.0": {
+        "runtime": {
+          "ConnectToEFCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConnectToEFCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
