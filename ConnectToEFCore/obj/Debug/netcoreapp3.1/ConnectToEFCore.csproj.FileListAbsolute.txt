@@ -11,3 +11,4 @@ C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\ConnectToEFCore\obj
 C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\ConnectToEFCore\obj\Debug\netcoreapp3.1\ConnectToEFCore.dll
 C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\ConnectToEFCore\obj\Debug\netcoreapp3.1\ConnectToEFCore.pdb
 C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\ConnectToEFCore\obj\Debug\netcoreapp3.1\ConnectToEFCore.genruntimeconfig.cache
+C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\ConnectToEFCore\obj\Debug\netcoreapp3.1\ConnectToEFCore.csproj.AssemblyReference.cache

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Text;
 using System.Text.Json;
 
 namespace ConsoleApp1
@@ -11,9 +12,14 @@ namespace ConsoleApp1
         {
 
             // 1 - Read Json data from Json file and get the data in collction object
-            var jsonFileReader = File.OpenText(@"C:\Accenture\EmployeeDetails.json");
+            //var jsonData = File.OpenText(@"EmployeeDetails.json");
+            var jsonVariable = "[{\"empid\" : 1, \"salary\" : 100},{\"empid\" : 5, \"salary\" : 200},{\"empid\" : 4, \"salary\" : 300},{\"empid\" : 3, \"salary\" : 400},{\"empid\" : 2, \"salary\" : 500}]";
+            //var jsonVariable = @"[{""empid"" : 1, ""salary"" : 200}, {""empid"" : 2, ""salary"" : 250},{""empid"" : 3, ""salary"" : 300},{""empid"" : 1, ""salary"" : 200}]";
 
-            List<Employee> employees = JsonSerializer.Deserialize<List<Employee>>(jsonFileReader.ReadToEnd(), new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
+            List<Employee> employees = JsonSerializer.Deserialize<List<Employee>>
+            (
+                jsonVariable, new JsonSerializerOptions { PropertyNameCaseInsensitive = true }
+            );
 
             // 2 - Sort the employees in descending order of their salary
             employees.Sort(delegate (Employee x, Employee y) {
