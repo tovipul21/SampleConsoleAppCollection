@@ -26,3 +26,17 @@ C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\DisplayJsonData\obj
 C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.dll
 C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.pdb
 C:\Users\vipul.mehta\source\repos\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.genruntimeconfig.cache
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\DisplayJsonData\bin\Debug\netcoreapp3.1\DisplayJsonData.exe
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\DisplayJsonData\bin\Debug\netcoreapp3.1\DisplayJsonData.deps.json
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\DisplayJsonData\bin\Debug\netcoreapp3.1\DisplayJsonData.runtimeconfig.json
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\DisplayJsonData\bin\Debug\netcoreapp3.1\DisplayJsonData.runtimeconfig.dev.json
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\DisplayJsonData\bin\Debug\netcoreapp3.1\DisplayJsonData.dll
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\DisplayJsonData\bin\Debug\netcoreapp3.1\DisplayJsonData.pdb
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.csproj.AssemblyReference.cache
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.AssemblyInfoInputs.cache
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.AssemblyInfo.cs
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.csproj.CoreCompileInputs.cache
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.dll
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.pdb
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\DisplayJsonData\obj\Debug\netcoreapp3.1\DisplayJsonData.genruntimeconfig.cache

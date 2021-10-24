@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vipul.mehta\\source\\repos\\SampleConsoleAppCollection\\DisplayJsonData\\DisplayJsonData.csproj": {}
+    "C:\\Users\\tovip\\source\\repos\\tovipul21\\SampleConsoleAppCollection\\DisplayJsonData\\DisplayJsonData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vipul.mehta\\source\\repos\\SampleConsoleAppCollection\\DisplayJsonData\\DisplayJsonData.csproj": {
+    "C:\\Users\\tovip\\source\\repos\\tovipul21\\SampleConsoleAppCollection\\DisplayJsonData\\DisplayJsonData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vipul.mehta\\source\\repos\\SampleConsoleAppCollection\\DisplayJsonData\\DisplayJsonData.csproj",
+        "projectUniqueName": "C:\\Users\\tovip\\source\\repos\\tovipul21\\SampleConsoleAppCollection\\DisplayJsonData\\DisplayJsonData.csproj",
         "projectName": "DisplayJsonData",
-        "projectPath": "C:\\Users\\vipul.mehta\\source\\repos\\SampleConsoleAppCollection\\DisplayJsonData\\DisplayJsonData.csproj",
-        "packagesPath": "C:\\Users\\vipul.mehta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vipul.mehta\\source\\repos\\SampleConsoleAppCollection\\DisplayJsonData\\obj\\",
+        "projectPath": "C:\\Users\\tovip\\source\\repos\\tovipul21\\SampleConsoleAppCollection\\DisplayJsonData\\DisplayJsonData.csproj",
+        "packagesPath": "C:\\Users\\tovip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tovip\\source\\repos\\tovipul21\\SampleConsoleAppCollection\\DisplayJsonData\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vipul.mehta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tovip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
         }
       }
     }

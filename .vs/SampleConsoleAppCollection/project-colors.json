@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8a083d4-60d6-4968-b997-197b64784c0e": {
+      "ProjectGuid": "d8a083d4-60d6-4968-b997-197b64784c0e",
+      "DisplayName": "ConnectToEFCore",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "08212545-9482-4883-999f-e51d44490904": {
+      "ProjectGuid": "08212545-9482-4883-999f-e51d44490904",
+      "DisplayName": "DisplayJsonData",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
