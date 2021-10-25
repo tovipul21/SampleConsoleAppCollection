@@ -1,0 +1,16 @@
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\GenericsPractice\bin\Debug\net6.0\GenericsPractice.exe
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\GenericsPractice\bin\Debug\net6.0\GenericsPractice.deps.json
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\GenericsPractice\bin\Debug\net6.0\GenericsPractice.runtimeconfig.json
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\GenericsPractice\bin\Debug\net6.0\GenericsPractice.dll
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\GenericsPractice\bin\Debug\net6.0\ref\GenericsPractice.dll
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\GenericsPractice\bin\Debug\net6.0\GenericsPractice.pdb
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\GenericsPractice\obj\Debug\net6.0\GenericsPractice.GlobalUsings.g.cs
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\GenericsPractice\obj\Debug\net6.0\GenericsPractice.csproj.AssemblyReference.cache
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\GenericsPractice\obj\Debug\net6.0\GenericsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\GenericsPractice\obj\Debug\net6.0\GenericsPractice.AssemblyInfoInputs.cache
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\GenericsPractice\obj\Debug\net6.0\GenericsPractice.AssemblyInfo.cs
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\GenericsPractice\obj\Debug\net6.0\GenericsPractice.csproj.CoreCompileInputs.cache
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\GenericsPractice\obj\Debug\net6.0\GenericsPractice.dll
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\GenericsPractice\obj\Debug\net6.0\ref\GenericsPractice.dll
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\GenericsPractice\obj\Debug\net6.0\GenericsPractice.pdb
+C:\Users\tovip\source\repos\tovipul21\SampleConsoleAppCollection\GenericsPractice\obj\Debug\net6.0\GenericsPractice.genruntimeconfig.cache
