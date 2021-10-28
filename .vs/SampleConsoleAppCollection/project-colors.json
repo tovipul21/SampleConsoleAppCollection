@@ -15,7 +15,12 @@
       "ProjectGuid": "08212545-9482-4883-999f-e51d44490904",
       "DisplayName": "DisplayJsonData",
       "ColorIndex": 1
+    },
+    "40fa670d-9945-48d6-915d-5e8e815d93ff": {
+      "ProjectGuid": "40fa670d-9945-48d6-915d-5e8e815d93ff",
+      "DisplayName": "GenericsPractice",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
