@@ -1,9 +1,4 @@
-﻿using ConnectToEFCore.Data;
-using ConnectToEFCore.Models;
-using System;
-using System.Linq;
-
-namespace ConnectToEFCore
+﻿namespace ConnectToEFCore
 {
     class Program
     {

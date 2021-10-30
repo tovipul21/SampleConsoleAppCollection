@@ -1,7 +1,4 @@
-﻿using ConnectToEFCore.Models;
-using Microsoft.EntityFrameworkCore;
-
-namespace ConnectToEFCore.Data
+﻿namespace ConnectToEFCore.Data
 {
     internal class ContosoPetsContext : DbContext
     {

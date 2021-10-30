@@ -1,7 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-
-namespace ConnectToEFCore.Models
+﻿namespace ConnectToEFCore.Models
 {
     public class Product
     {

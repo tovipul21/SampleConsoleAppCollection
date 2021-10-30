@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace ConnectToEFCore.Models
+﻿namespace ConnectToEFCore.Models
 {
     public class Order
     {
